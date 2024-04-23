@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[================= Placing order For  ============ <br>]]>
+    </line>
+    <line>
+      <![CDATA[Test case : Placing order for Product - LES Mills <br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-07T19:41:25 IST" name="org.putitrightdone.TestCases.TestCaseSearchProduct" finished-at="2024-04-07T19:41:37 IST" duration-ms="11777">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T19:41:25 IST" name="Command line test" finished-at="2024-04-07T19:41:37 IST" duration-ms="11777">
+      <class name="org.putitrightdone.TestCases.TestCaseSearchProduct">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.putitrightdone.TestCases.TestCaseSearchProduct@fdefd3f]" started-at="2024-04-07T19:41:23 IST" name="setUp" finished-at="2024-04-07T19:41:25 IST" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestCase_PlacingNewOrder_Amazon()[pri:0, instance:org.putitrightdone.TestCases.TestCaseSearchProduct@fdefd3f]" started-at="2024-04-07T19:41:25 IST" name="TestCase_PlacingNewOrder_Amazon" finished-at="2024-04-07T19:41:37 IST" duration-ms="11511" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[================= Placing order For  ============ <br>]]>
+            </line>
+            <line>
+              <![CDATA[Test case : Placing order for Product - LES Mills <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCase_PlacingNewOrder_Amazon -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.putitrightdone.TestCases.TestCaseSearchProduct@fdefd3f]" started-at="2024-04-07T19:41:37 IST" name="closeBrowser" finished-at="2024-04-07T19:41:37 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.putitrightdone.TestCases.TestCaseSearchProduct -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.putitrightdone.TestCases.TestCaseSearchProduct -->
+</testng-results>
